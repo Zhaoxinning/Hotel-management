@@ -1,0 +1,23 @@
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+}
+
+#focus {
+	background-color: rgba(144, 164, 163, 0.2);
+}
+
+#focus_body {
+	background-color: rgba(144, 164, 163, 0.2);
+}
+
+.focus_div {
+	background-color: rgba(144, 164, 163, 0.2);
+}
+
+#pw_security {
+	display: none;
+}
